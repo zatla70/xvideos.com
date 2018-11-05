@@ -1,6 +1,6 @@
 token=NTA5MDM4MzQ1Nzk2NzE0NTA2.DsIcAA.V-21350Xd-Nx6ukkGzmae_-SPOs
 owner=273267039291047938
 prefix=X
-game=Type 
+game=
 stayinchannel=true
 songinstatus=true
